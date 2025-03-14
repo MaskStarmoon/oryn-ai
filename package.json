@@ -1,0 +1,26 @@
+{
+  "name": "Oryn-Ai",
+  "author": "Range",
+  "description": "Oryn Ai Chatbot random ( Male/Female )",
+  "version": "1.2.0",
+  "main": "server.js",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {},
+  "engines": {
+    "node": "16.x"
+  },
+  "dependencies": {
+    "axios": "^1.7.7",
+    "canvas": "^2.9.1",
+    "cb": "^0.1.1",
+    "child_process": "^1.0.2",
+    "express": "^4.21.0",
+    "fs": "^0.0.1-security",
+    "https": "^1.0.0",
+    "https-proxy-agent": "^7.0.5"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
